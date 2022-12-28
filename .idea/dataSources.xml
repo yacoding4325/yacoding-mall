@@ -43,11 +43,11 @@
       <jdbc-url>jdbc:mysql://localhost:3306/pms_catelog</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="renren_fast@localhost" uuid="ef3f623c-02dd-4434-a63e-34e267f6b146">
+    <data-source source="LOCAL" name="renren-fast@localhost" uuid="0ef7f7e1-b9b4-4e2d-8c85-a6cf6fb2a608">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/renren_fast</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/renren-fast</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
